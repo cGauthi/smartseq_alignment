@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Testing for YOGA
 fastqc MergedFiles/*
 
 echo "Creating MergedFiles/QC folder."
